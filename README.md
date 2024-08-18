@@ -6,7 +6,7 @@
 
 - [ReactJS](https://github.com/frontend-programming/courses/tree/react)
 
-- [React Advanced](https://github.com/frontend-programming/courses/tree/react-advanced)
+- [ReactJS Advanced](https://github.com/frontend-programming/courses/tree/react-advanced)
 
 - [React Native (Android & iOS)](https://github.com/frontend-programming/courses/tree/react-native)
 
